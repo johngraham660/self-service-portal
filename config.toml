@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://infra-ops-ssp.apps.oso.10.137.0.166.xip.io/"
 languageCode = "en-us"
 title = "Infrastructure Ops Self Service Portal"
 theme = "hugo-cards"

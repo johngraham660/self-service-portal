@@ -4,8 +4,8 @@ title: "Openshift Project"
 date: 2018-10-13T16:19:08+01:00
 categories: ops-service
 img: img-req.png
-author: "John Graham [john.graham@sky.uk]"
-draft: true
+author: "Unix Production Support"
+draft: false
 ---
 Request a new Openshift project (namespace) to host your application pods, services and routes. You will be able to specify view, edit or admin privileges per project user.
 

@@ -4,8 +4,8 @@ title: "Openshift Load Balancer"
 categories: ops-service
 img: img-req.png
 date: 2018-10-13T15:44:23+01:00
-author: "John Graham [john.graham@sky.uk]"
-draft: true
+author: "Unix Production Support"
+draft: false
 ---
 Provision a new Openshift hosted Load Balancer, This will create a new HAProxy based load balancer service designed to load balance traffic to web services hosted outside of the cluster.
 

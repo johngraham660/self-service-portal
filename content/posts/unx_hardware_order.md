@@ -5,7 +5,7 @@ date: 2018-10-13T11:30:12+01:00
 categories: ops-service
 img: img-req.png
 author: "John Graham [john.graham@sky.uk]"
-draft: true
+draft: false
 ---
 Request a new physical server, this will allow you to specify CPU, Memory and internal storage capacity. You will be able to track the progress of this hardware order throughout the procurement process.
 

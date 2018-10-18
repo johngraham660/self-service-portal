@@ -5,7 +5,7 @@ date: 2018-10-13T15:45:23+01:00
 categories: ops-service
 img: img-req.png
 author: "John Graham [john.graham@sky.uk]"
-draft: true
+draft: false
 ---
 Request a new Redhat Cluster server, this service will provision a two node same site cluster, suitable for hosting MQ, Oracle and MySQL databases. A custom application service option is also available.
 

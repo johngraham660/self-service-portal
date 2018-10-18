@@ -5,7 +5,7 @@ date: 2018-10-13T11:31:12+01:00
 categories: ops-service
 img: img-req.png
 author: "John Graham [john.graham@sky.uk]"
-draft: true
+draft: false
 ---
 The user account request form is for requesting application management accounts that will be used to managed services hosted on Solaris or Redhat Unix servers. These application accounts will not be used to logon to servers but will be accessed via a sudo su - account and will have a number of defined sudo rules in LDAP.
 
